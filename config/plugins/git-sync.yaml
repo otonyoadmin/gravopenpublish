@@ -14,7 +14,7 @@ sync:
   cron_at: '0 12,23 * * *'
 repository: 'https://github.com/otonyoadmin/gravopenpublish'
 user: otonyoadmin
-password: gitsync-def502005ae39e146421e1df01a88fac4c7bb724c315e298aecf95b9454b6979c6edc269270b8875753f133a65fd9f5380e374e756a5b767b34c9c21d376d10d6690f72b759a2ea50c7da8c08630c11483e27831e1ee5cfa8ad8a838e36d
+password: gitsync-def5020046a651bfa1c3e606727036b4d73df2a7fe6767d956fa58c5af9e0556233edb2118a14b9bc7aff6d24de493b3a697561c73bb16fdbcc3375a2f3a71f2a8efb397e37fbf489e303c61412079c771e58443d06936fdc1d80ed4dca6
 webhook: /_git-sync-1fd3d6389398
 webhook_enabled: '1'
 webhook_secret: 8176d210688f736b6df561da17003ed854b6b8765359b3b0
