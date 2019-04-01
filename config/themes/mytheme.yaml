@@ -36,3 +36,9 @@ menu:
     target: _blank
 dropdown:
   enabled: false
+custom_logo:
+  user/themes/mytheme/images/logo/otonyologo1.png:
+    name: otonyologo1.png
+    type: image/png
+    size: 12600
+    path: user/themes/mytheme/images/logo/otonyologo1.png
