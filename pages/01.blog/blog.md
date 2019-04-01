@@ -31,4 +31,4 @@ pagination: true
 
 # Desire Dynamics
 ### Enables Positive Participation Self Managment
-# Eradicate Self Esteem Issues
+### Eradicates Self Esteem Issues
