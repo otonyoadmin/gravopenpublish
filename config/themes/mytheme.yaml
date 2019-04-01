@@ -36,9 +36,3 @@ menu:
     target: _blank
 dropdown:
   enabled: false
-custom_logo:
-  user/themes/mytheme/images/logo/logo.png:
-    name: logo.png
-    type: image/png
-    size: 67588
-    path: user/themes/mytheme/images/logo/logo.png
