@@ -1,5 +1,5 @@
 ---
-title: 'esire Dynamics'
+title: 'Desire Dynamics'
 hide_git_sync_repo_link: false
 ---
 
