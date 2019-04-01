@@ -4,7 +4,7 @@ hide_git_sync_repo_link: false
 ---
 
 ### Desire Dynamics provides a unique new framework for enabling the development of positive human participation management systems.
-#### Using a distinct, individually discoverable conception for a consitently available, invinsible Self identity, as distinct from socially interdependent constantly changing personal 'I', identities, makes it possible to easily integrate desire defined purposes using the highest common denominators.
+> #### Using a distinct, individually discoverable conception for a consitently available, invinsible Self identity, as distinct from socially interdependent constantly changing personal 'I', identities, makes it possible to easily integrate desire defined purposes using the highest common denominators.
 
 
 
