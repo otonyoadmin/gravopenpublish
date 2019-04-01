@@ -30,5 +30,5 @@ pagination: true
 ---
 
 # Desire Dynamics
-# A New Human Will Framework
+## A New Human Will Framework
 # Eradicates Self Esteem Issues
