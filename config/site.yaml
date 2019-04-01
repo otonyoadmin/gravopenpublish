@@ -1,0 +1,19 @@
+title: OtonyO.com
+default_lang: en
+author:
+  name: 'Tony Owens'
+  email: tonyo@otonyo.com
+taxonomies:
+  - category
+  - tag
+  - month
+  - author
+metadata:
+  description: 'OtonyO is home site for Tony Owens the founder of Desire Dynamics, 1Door Psychosynthesis, My-I Witness & Agile Self Management'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: ''

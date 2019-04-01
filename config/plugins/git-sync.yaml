@@ -1,0 +1,31 @@
+enabled: true
+text_var: 'Custom Text added by the **Git Sync** plugin (disable plugin to remove)'
+folders:
+  - pages
+  - themes
+  - plugins
+  - config
+  - data
+sync:
+  on_save: true
+  on_delete: true
+  on_media: true
+  cron_enable: false
+  cron_at: '0 12,23 * * *'
+repository: 'https://github.com/otonyoadmin/gravopenpublish'
+user: otonyoadmin
+password: gitsync-def502001b84c4955db994c1d64e5f142da6314d6819dfa726ee9f98e61120f5eff12f14a4d975cd05ad96099401b15797dfa83f444ca055461d7bf1e7391e85e1a9a4ffd73fe6b68a485a1929c010f981984205b52e32ce227d396c58ae
+webhook: /_git-sync-1fd3d6389398
+webhook_enabled: '1'
+webhook_secret: 8176d210688f736b6df561da17003ed854b6b8765359b3b0
+branch: master
+remote:
+  name: origin
+  branch: master
+git:
+  author: gituser
+  message: '(Grav GitSync) Automatic Commit'
+  name: GitSync
+  email: git-sync@trilby.media
+  bin: '"C:\Program Files\Git\bin\git.exe"'
+logging: false
