@@ -5,6 +5,11 @@ hide_git_sync_repo_link: false
 
 ## Desire Dynamics provides a unique new framework for enabling the development of positive human participation management systems.
 ##### Using a distinct, verifiable conception of a consitently available, invinsible, Self identity in conjunction with a distinct socially interdependent, constantly changing, personal-I identities, making it possible to synthetically integrate desire defined purposes using the highest common denominators.#####
+
+Founded upon scientifically sound approach integrates 
+* Emptiness as a first cause in relationship to human will
+* Personal identites are modelled in distinct i-role s 
+
 integration of Self will and 
 the This is an example **standard** page, where content from one single page is displayed. This page also shows how to add classes to Markdown images for floating images left or right, with and without captions.
 
