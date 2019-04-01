@@ -6,7 +6,8 @@ visible: false
 position: top
 ---
 
-**About Tony Owens**
+#### About _Tony Owens_
+
 It has always been by desire to discover and provide the appropriate pristine knowledge and facilitation that could enable and sustain the development of an ideal attitude within people who have the capacity for Servant Leadership.
 
 Having designed and facilitated several authentic leadership courses along with senior management and CEO metoring projects, since I began working with the Pschosynthesis self model in the mid 1990's, it became clear that the limitations of mindsets, based upon personal identities, which are used in professional training and development work made it impossible to realize my ambitients to provide enabling programs for servant leadership.
