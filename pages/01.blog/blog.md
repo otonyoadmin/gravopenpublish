@@ -30,5 +30,5 @@ pagination: true
 ---
 
 # Desire Dynamics
-# Mindfully Entering & Exiting
-# My-I's
+# A New Human Will Framework
+# Eradicates Self Esteem Issues
