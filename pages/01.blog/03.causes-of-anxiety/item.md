@@ -9,7 +9,7 @@ show_pagination: true
 hide_from_post_list: false
 ---
 
-Your page summary goes here.
+In a Buddhist teaching called "Better Ways Of Catching A Snake" some core causes of anxiety are discussed, the movement from perception to conception (consiousness) is particulary important to include when designing facilitation programs using Desire Dynamics. 
 
 ===
 
