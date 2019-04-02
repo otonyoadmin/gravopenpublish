@@ -11,6 +11,15 @@ hide_git_sync_repo_link: false
 * #####Constantly improve speed and ease adaptation, while preventing change stress overload.
 * #####Eradicate self esteem issues and reduce naturally occuring resistances to change.
 
+##Mindful 1st - Many full I's and One Empty Self##
+Mindful 1st denotes the use of what is known as the two truths, firstly the truth of the profoundity of emptiness and secondly the contingent truths.
+
+The Self modality used within Desire Dynamics is the 'empty self' analogously described and made intellectually understandable by the Mahayana Heart Sutra.  
+
+Within Desire Dynamics this empty Self is integrated as a potential first cause, as a motivator of human Will and a force majeure in the evocation of superior human desires, where superior enables the most positive human participation.
+
+Technically for monitoring and management purposes this empty Self is represented by **(_i_)** or the square root of −1. This enables personal, collation, monitoring, calibration and management of previously unavailable private information, which directly relate to desire satisfaction.
+
 Using a distinct, individually verifiable conception of a consitently available, invinsible Self identity, in conjunction with a series of easily identifiable, culturally and socially interdependent, personal-I and I-role identities, 
 
 making it possible to synthetically integrate desire defined purposes using the highest common denominators.#####
