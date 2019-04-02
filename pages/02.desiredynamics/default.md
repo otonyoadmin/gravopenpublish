@@ -5,7 +5,9 @@ hide_git_sync_repo_link: false
 
 ## Desire Dynamics##
 ### provides a unique, new, open source, framework for enabling the development of positive human participation management systems.
-##### Easily define, a constantly open set of self determined 'Highest Common Denominators'  that enables continuos integration of emergent human knowledge and easier adaptation, while preventing change stress overload. gained through real life experience and purposefully led open minded self reflection 
+* ##### Easily define, a constantly open set of self determined 'Highest Common Denominators' and self enable enthusiastic personal disabuse and delight in the discovery of new self knowledge gained through direct personal experiences and purposeful open minded self reflection.
+* Easily develop context specific Self managegement that enables continuos integration and adaptation using the emergent human knowledge that accompanies life experiences and a maturing mind.
+* and easier adaptation, while preventing change stress overload. gained through real life experience and purposefully led open minded self reflection 
 
 Using a distinct, individually verifiable conception of a consitently available, invinsible Self identity, in conjunction with a series of easily identifiable, culturally and socially interdependent, personal-I and I-role identities, 
 
