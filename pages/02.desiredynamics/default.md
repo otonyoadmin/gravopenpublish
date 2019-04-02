@@ -4,8 +4,12 @@ hide_git_sync_repo_link: false
 ---
 
 ## Desire Dynamics##
-### provides a unique new framework for enabling the development of positive human participation management systems.
-##### Using a distinct, verifiable conception of a consitently available, invinsible, Self identity in conjunction with a distinct socially interdependent, constantly changing, personal-I identities, making it possible to synthetically integrate desire defined purposes using the highest common denominators.#####
+### provides a unique, new, open source, framework for enabling the development of positive human participation management systems.
+##### Easily define, a constantly open set of self determined 'Highest Common Denominators'  that enables continuos integration of emergent human knowledge and easier adaptation, while preventing change stress overload. gained through real life experience and purposefully led open minded self reflection 
+
+Using a distinct, individually verifiable conception of a consitently available, invinsible Self identity, in conjunction with a series of easily identifiable, culturally and socially interdependent, personal-I and I-role identities, 
+
+making it possible to synthetically integrate desire defined purposes using the highest common denominators.#####
 > Founded upon scientifically sound approach integrates 
 > * Emptiness as a first cause in relationship to human will
 > * Personal identites are modelled in distinct i-role s 
