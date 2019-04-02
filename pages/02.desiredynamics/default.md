@@ -4,7 +4,7 @@ hide_git_sync_repo_link: false
 ---
 
 # Desire Dynamics is Mindful 1st#
-## Born from proven solutions for positive human participation Desire Dynamics provides a new, open source, heuristic  for enabling the development of professional positive human participation management systems.
+## Born from synthetic inclusive integration of the best, most powerful, proven solutions for positive human participation, Desire Dynamics provides a new, open source, heuristic  for enabling the development of professional positive human participation management systems.
 * ##### Define, monitor and manage, a constantly open set of individually determined 'Highest Common Denominators', using Desire Profiles
 * ##### Provide and manage services where individuals and groups can self enable enthusiastic personal and group disabuse, while delighting in the discovery of new self knowledge, gained through direct personal experiences and purposeful open minded self reflection.
 * #####Easily develop context specific Self managegement that enables continuos integration and adaptation using the emergent human knowledge that accompanies life experiences and a maturing mind.
