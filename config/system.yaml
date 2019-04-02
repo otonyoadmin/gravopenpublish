@@ -28,7 +28,7 @@ pages:
   dateformat:
     default: 'd-m-Y H:i'
     short: 'jS M Y'
-    long: 'F jS \a\t g:ia'
+    long: 'D, d M Y G:i:s'
   publish_dates: true
   process:
     markdown: true
