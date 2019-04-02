@@ -1,5 +1,5 @@
 ---
-title: 'Causes Of Anxiety'
+title: 'Causes Of Anxiety - Better Ways To Catch The Snake'
 date: '02-04-2019 23:12'
 hide_git_sync_repo_link: false
 blog_url: /blog
