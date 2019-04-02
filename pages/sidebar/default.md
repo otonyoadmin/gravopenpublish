@@ -6,7 +6,7 @@ visible: false
 position: top
 ---
 
-#### About _Tony Owens_
+#### _About_ Tony Owens
 
 It has always been by desire to discover and provide the appropriate pristine knowledge and facilitation that could enable and sustain the development of an ideal attitude within people who have the capacity for Servant Leadership.
 
