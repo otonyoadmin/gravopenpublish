@@ -8,7 +8,7 @@ hide_git_sync_repo_link: false
 * ##### Define, monitor and manage, a constantly open set of individually determined 'Highest Common Denominators', using Desire Profiles
 * ##### Provide and manage services where individuals and groups can self enable enthusiastic personal and group disabuse, while delighting in the discovery of new self knowledge, gained through direct personal experiences and purposeful open minded self reflection.
 * #####Easily develop context specific Self managegement that enables continuos integration and adaptation using the emergent human knowledge that accompanies life experiences and a maturing mind.
-* #####and easier adaptation, while preventing change stress overload. gained through real life experience and purposefully led open minded self reflection 
+* #####Constantly improve speed and ease adaptation, while preventing change stress overload.
 
 Using a distinct, individually verifiable conception of a consitently available, invinsible Self identity, in conjunction with a series of easily identifiable, culturally and socially interdependent, personal-I and I-role identities, 
 
