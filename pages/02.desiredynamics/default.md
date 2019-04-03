@@ -10,6 +10,7 @@ hide_git_sync_repo_link: false
 * #####Easily develop context specific Self managegement that enables continuos integration and adaptation using the emergent human knowledge that accompanies life experiences and a maturing mind.
 * #####Constantly improve speed and ease adaptation, while preventing change stress overload.
 * #####Eradicate self esteem issues and reduce naturally occuring resistances to change.
+* #####Continuous purpose led integration of new knowledge naturally enhances collaberation and problem solving skills 
 
 ##Mindful 1st - Many full I's and One Empty Self##
 Mindful 1st denotes the use of what is known as the two truths, firstly the truth of the profoundity of emptiness and secondly the contingent truths.
