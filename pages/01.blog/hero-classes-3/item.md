@@ -1,6 +1,5 @@
 ---
-title: 'Body & Hero Classes'
-published: false
+title: 'Analysis, Paralysis - The Nonsense Self in Counselling & Therapy'
 date: '14:55 08/11/2017'
 taxonomy:
     category:

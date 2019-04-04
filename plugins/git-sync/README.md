@@ -62,3 +62,4 @@ The PHP `exec()` and `escapeshellarg()` functions are required to be enabled.
 # Sponsored by
 
 This plugin could not have been realized without the sponsorship of [Hibbitts Design](http://www.hibbittsdesign.org/blog/) and the development of [Trilby Media](http://trilby.media).
+"# gravopenpublish" 

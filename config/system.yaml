@@ -1,4 +1,5 @@
 absolute_urls: false
+timezone: Europe/Dublin
 param_sep: ':'
 wrapped_site: false
 reverse_proxy_setup: false
@@ -25,6 +26,7 @@ pages:
   list:
     count: 20
   dateformat:
+    default: 'd-m-Y H:i'
     short: 'jS M Y'
     long: 'F jS \a\t g:ia'
   publish_dates: true
@@ -121,7 +123,7 @@ images:
 media:
   enable_media_timestamp: false
   auto_metadata_exif: false
-  upload_limit: 33554432
+  upload_limit: 734003200
 session:
   enabled: true
   initialize: true

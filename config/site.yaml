@@ -1,15 +1,15 @@
-title: Grav
+title: OtonyO.com
 default_lang: en
 author:
-  name: 'Joe Bloggs'
-  email: joe@test.com
+  name: 'Tony Owens'
+  email: tonyo@otonyo.com
 taxonomies:
   - category
   - tag
   - month
   - author
 metadata:
-  description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+  description: 'OtonyO is home site for Tony Owens the founder of Desire Dynamics, 1Door Psychosynthesis, My-I Witness & Agile Self Management'
 summary:
   enabled: true
   format: short
