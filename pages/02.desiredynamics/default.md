@@ -1,8 +1,35 @@
 ---
-title: Standard Page
+title: 'Desire Dynamics'
+hide_git_sync_repo_link: false
 ---
 
-This is an example **standard** page, where content from one single page is displayed. This page also shows how to add classes to Markdown images for floating images left or right, with and without captions.
+# Desire Dynamics is Mindful 1st#
+### Born from Mindful 1st, synthetic integration of the best, most powerful, proven solutions for positive human participation, Desire Dynamics provides a new open source, heuristic  for enabling the development of professional positive human participation management systems.
+* ##### Define, monitor and manage, a constantly open set of individually determined 'Highest Common Denominators', using Desire Profiles
+* ##### Provide and manage services where individuals and groups can self enable enthusiastic personal and group disabuse, while delighting in the discovery of new self knowledge, gained through direct personal experiences and purposeful open minded self reflection.
+* #####Easily develop context specific Self managegement that enables continuos integration and adaptation using the emergent human knowledge that accompanies life experiences and a maturing mind.
+* #####Constantly improve speed and ease adaptation, while preventing change stress overload.
+* #####Eradicate self esteem issues and reduce naturally occuring resistances to new knowledge and applied adaptation.
+* #####Continuous purpose led integration of new knowledge naturally enhances collaberation and problem solving skills 
+
+##Mindful 1st - Many full I's and One Empty Self##
+Mindful 1st denotes the use of what is known as the two truths, firstly the truth of the profoundity of emptiness and secondly the contingent truths.
+
+The Self modality used within Desire Dynamics is the 'empty self' analogously described and made intellectually understandable by the Mahayana Heart Sutra.  
+
+Within Desire Dynamics this empty Self is integrated as a potential first cause, as a motivator of human Will and a force majeure in the evocation of superior human desires, where superior enables the most positive human participation.
+
+Technically for monitoring and management purposes this empty Self is represented by **(_i_)** or the square root of −1. This enables personal, collation, monitoring, calibration and management of previously unavailable private information, which directly relate to desire satisfaction.
+
+Using a distinct, individually verifiable conception of a consitently available, invinsible Self identity, in conjunction with a series of easily identifiable, culturally and socially interdependent, personal-I and I-role identities, 
+
+making it possible to synthetically integrate desire defined purposes using the highest common denominators.#####
+> Founded upon scientifically sound approach integrates 
+> * Emptiness as a first cause in relationship to human will
+> * Personal identites are modelled in distinct i-role s 
+
+integration of Self will and 
+the This is an example **standard** page, where content from one single page is displayed. This page also shows how to add classes to Markdown images for floating images left or right, with and without captions.
 
 ![Sky and Mountain](chase-moyer-730496-unsplash.jpg)
 

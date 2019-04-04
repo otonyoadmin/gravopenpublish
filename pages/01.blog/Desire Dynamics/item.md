@@ -1,6 +1,6 @@
 ---
 title: 'Desire Dyanmics and My-I, the Strange Loop'
-date: '14:55 08/11/2018'
+date: '11-08-2018 14:55'
 taxonomy:
     category:
         - blog

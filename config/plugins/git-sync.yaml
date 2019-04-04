@@ -14,8 +14,8 @@ sync:
   cron_at: '0 12,23 * * *'
 repository: 'https://github.com/otonyoadmin/gravopenpublish'
 user: otonyoadmin
-password: 8326140Ttt
-webhook: /_git-sync-a25f3f9f2cb0
+password: gitsync-def50200ae215ae0624b1a471a4ff13a1003ff57742a52d0fd23e77ddfbbef8667c4e9855db79742c8eb657f7111545a7646248a67225248299ace74eeecaa297409db46d61ab0024656745dbe04be3ee3d54e5db2b3178b902ccde782aa
+webhook: /_git-sync-1fd3d6389398
 webhook_enabled: '1'
 webhook_secret: 8176d210688f736b6df561da17003ed854b6b8765359b3b0
 branch: master
@@ -26,6 +26,6 @@ git:
   author: gituser
   message: '(Grav GitSync) Automatic Commit'
   name: GitSync
-  email: git-sync@trilby.media
-  bin: git
+  email: 'tonywicklow+github@gmail.com '
+  bin: '"C:\Program Files\Git\bin\git.exe"'
 logging: false

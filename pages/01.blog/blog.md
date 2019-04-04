@@ -1,6 +1,6 @@
 ---
 title: Blog
-media_order: 'desiredynamicsgoldenswirl.jpg,recursionsteps.jpg,mountain.jpg'
+media_order: 'fireheartinverted1.jpg,fireheartinverted.jpg,desiredynamicsgoldenswirl.jpg,recursionsteps.jpg,mountain.jpg'
 hide_git_sync_repo_link: false
 body_classes: 'header-dark header-transparent'
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
@@ -30,5 +30,5 @@ pagination: true
 ---
 
 # Desire Dynamics
-# Mindfully Entering & Exiting
-# My-I's
+### Enables Adaptive Positive Participation Self Managment
+### Eradicates Self Esteem Issues
