@@ -16,6 +16,5 @@ content:
 ### Potential
 [/div]
 
-Desire Dynamics provides mental frameworks for enabling individual and group positive participation, as part of this enabling process some of the more obvious naturally occuring obsticles and resistances to positive participation may need to be addressed to whatever extent they are present in individuals and groups seeking to use programs designed using the frameworks.
-
-As part of understanding the potential value Desire Dynamics some of the most obvious pains that afflict human participation, which Desire Dynamics can help to mitigate and eliminate are outlined here.
+Desire Dynamics provides a unique scientifically sound, mental framework for enabling Mindful 1st individual and group positive participation.
+While this is an open source framework and potential professional applications can be developed in a wide range of use cases there are some immediately obvious benefits, practical applications and problem solutions, which can be deduced and easily verified easily..
