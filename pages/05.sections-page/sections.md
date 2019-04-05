@@ -1,5 +1,5 @@
 ---
-title: 'Sections Page'
+title: 'Potential Value'
 published: true
 hide_git_sync_repo_link: false
 hide_page_title: true
