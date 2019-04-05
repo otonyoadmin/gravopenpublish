@@ -1,9 +1,12 @@
 ---
-title: 'Pains Desire Dynamics Can Mitigate & Eliminate'
+title: 'Overcoming Obsticles'
 hide_git_sync_repo_link: false
 hide_page_title: false
 ---
 
-Desire Dynamics provides mental frameworks for enabling individual and group positive participation, as part of this enabling process some of the more obvious naturally occuring obsticles and resistances to positive participation may need to be addressed to whatever extent they are present in individuals and groups seeking to use programs designed using the frameworks.
-
-As part of understanding the potential value Desire Dynamics some of the most obvious pains that afflict human participation, which Desire Dynamics can help to mitigate and eliminate are outlined here.
+The basic framework within Desire Dynamics will help remove
+#### Debilitating Self Doubt, which can,
+* Hamper ease of integration of disabuses existing mindsets
+* Create barriers to adaptive change and can manifest in symptoms like those of Imposter Syndrome
+* Amplify the impact of personally directed social bias and abuse, as in the case of gender or racial bias
+* Disable a willingness to fail fast during agile development
