@@ -1,5 +1,9 @@
 ---
-title: 'Section One'
+title: 'Pains Desire Dynamics Can Mitigate & Eliminate'
+hide_git_sync_repo_link: false
+hide_page_title: false
 ---
 
-Aliquam nulla felis, fringilla nec lobortis a, faucibus a magna. Nulla faucibus ullamcorper risus, eget molestie ante consequat tristique. Vestibulum eget felis eu leo aliquet cursus. Nunc lobortis purus rhoncus libero tempor, in finibus dui dictum. Cras eu fermentum velit. Mauris in urna vitae eros faucibus commodo. Curabitur in massa sagittis, faucibus ante nec, feugiat tortor. Phasellus et posuere nulla, finibus interdum enim. Praesent commodo convallis orci nec lacinia. Nunc ultricies non ante id efficitur. Quisque dui sapien, sollicitudin sagittis interdum quis, pharetra id felis. Donec nec metus rhoncus, commodo magna ac, auctor turpis. Cras at lobortis mi, et facilisis mi. Proin consequat pharetra nunc, sit amet iaculis sem pulvinar ornare. Maecenas semper euismod ipsum, eget tincidunt libero malesuada at. In hac habitasse platea dictumst.
+Desire Dynamics provides mental frameworks for enabling individual and group positive participation, as part of this enabling process some of the more obvious naturally occuring obsticles and resistances to positive participation may need to be addressed to whatever extent they are present in individuals and groups seeking to use programs designed using the frameworks.
+
+As part of understanding the potential value Desire Dynamics some of the most obvious pains that afflict human participation, which Desire Dynamics can help to mitigate and eliminate are outlined here.
