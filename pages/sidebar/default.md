@@ -6,9 +6,9 @@ visible: false
 position: top
 ---
 
-#### _About_ Desire Dynamics
+#### About Desire Dynamics
 
-Stressless integration of new knowledge & active adaptation, 50% faster.
+A new, scientifically sound heuristic for that enables faster more inclusive Self reflection, stressless integration of new knowledge & 50% faster active adaptation, in individuals, teams and groups.
 
 Desire Dynamics provides new professional solutions for the emerging challenges relating to the dynamic integration of diverse whole of life education.
 [twitter url="https://twitter.com/hibbittsdesign" text="Tweets by @hibbittsdesign" height="600"]
