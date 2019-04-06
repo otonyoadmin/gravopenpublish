@@ -20,7 +20,7 @@ Desire Dynamics provides new professional solutions for the emerging challenges 
 
 If we want both educator and student to tirelessly intgrate and adapt with new knoweldge, accreated through personal and professional experience and continuous training, we can deduce a fundemental clear need for significent behavioural and mindset changes as they develop and apply their new knowledge in their own unique circumstances. Continous, even compossionate, disabuse and integration of new knowledge that sometimes changes secure fundemental beliefs in an individual or a group requires a strong powerful infinetly open clear minded Self identtity.
 
-### Desire Dynamics provides an antifragile Self Identity, which is guarnteed for life.
+## Desire Dynamics provides an antifragile Self Identity, which is guarnteed for life.
 
 How can an educator or a student of a new discipline integrate what is being thought and learned in a mind that is sequentially exposed to learning Neuro Linguistic Programming, with Non Violent Communication, with Game Theory and the 4 Hour Work Day with a lifespan that may likely invole 5 diffearent carriers and several intimate personal partnerships.
 
