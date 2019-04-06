@@ -14,7 +14,7 @@ content:
 
 [div class="sections-page-title"]
 ### Desire Dynamics
-Integrate & Adapt 50% faster, without stress
+#### Integrate & Adapt emergent knowledge 50% faster, without stress
 [/div]
 
 Desire Dynamics provides new professional solutions for the emerging challenges relating to the dynamic integration of diverse whole of life education.
