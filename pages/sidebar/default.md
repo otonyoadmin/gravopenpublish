@@ -6,11 +6,9 @@ visible: false
 position: top
 ---
 
-#### _About_ Tony Owens
+#### _About_ Desire Dynamics
 
-It has always been by desire to discover and provide the appropriate pristine knowledge and facilitation that could enable and sustain the development of an ideal attitude within people who have the capacity for Servant Leadership.
+Stressless integration of new knowledge & active adaptation, 50% faster.
 
-Having designed and facilitated several authentic leadership courses along with senior management and CEO metoring projects, since I began working with the Pschosynthesis self model in the mid 1990's, it became clear that the limitations of mindsets, based upon personal identities, which are used in professional training and development work made it impossible to realize my ambitients to provide enabling programs for servant leadership.
-I began in 2012 to research and develop what has now emerged as the Desire Dynamics framework which, Hoffsteddr's Strange Loop model with the Mahayana Buddhist Self solution that eradicates self esteem issues and provides a consitent boutSome text here.
-
+Desire Dynamics provides new professional solutions for the emerging challenges relating to the dynamic integration of diverse whole of life education.
 [twitter url="https://twitter.com/hibbittsdesign" text="Tweets by @hibbittsdesign" height="600"]
