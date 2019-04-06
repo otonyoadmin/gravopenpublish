@@ -1,5 +1,5 @@
 ---
-title: 'Understanding Our Parents'
+title: 'Removing Bias - Understanding Our Parents'
 hide_git_sync_repo_link: false
 hide_page_title: false
 ---
