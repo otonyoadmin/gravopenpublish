@@ -1,7 +1,7 @@
 ---
 title: otonyotestform1
 date: '10-04-2019 17:56'
-orms:
+Forms:
     contact-form:
         fields: ...
         buttons: ...
