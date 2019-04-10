@@ -1,7 +1,7 @@
 ---
 title: otonyotestform1
 date: '10-04-2019 17:56'
-Forms:
+forms:
     contact-form:
         fields: ...
         buttons: ...
@@ -9,7 +9,7 @@ Forms:
     newsletter-form:
         fields: ...
         buttons: ...
-        process: null
+        process: ...
 ---
 
 # This is the test for text 
