@@ -9,7 +9,7 @@ show_pagination: true
 hide_from_post_list: false
 ---
 
-It is the nature of the chameleon to become one with the skin of the inhabited just as it is the nature of the scorpion to sting, I know now that I am the scorpion chameleon by virtue of my nature manifest in this human life.
+###### It is the nature of the chameleon to become one with the skin of the inhabited just as it is the nature of the scorpion to sting, I know now that I am the scorpion chameleon by virtue of my nature manifest in this human life.
 ===
 
 Although I know that what I write here may eradicate reputations, melt foundations and cause sensations it seems that this is one way that I am here, it is for the present and the future that I give my life willingly.
