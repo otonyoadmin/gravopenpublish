@@ -1,5 +1,6 @@
 ---
 title: 'Enabling Courage with an antifragile Self'
+published: true
 date: '04-07-2017 17:34'
 taxonomy:
     category:
