@@ -16,8 +16,8 @@ show_pagination: true
 hide_from_post_list: false
 ---
 
-We are where we are and we must travel from, through and to Now if we are to find the enlivening life we seek.
-===
+> We are where we are and we must travel from, through and to Now if we are to find the enlivening life we seek.
+
 
 ! Details on the full capabiltiies of Spectre.css can be found in the [Official Spectre Documentation](https://picturepan2.github.io/spectre/elements.html)
 
